@@ -6,6 +6,20 @@ ERC-721 Token Symbol : "NS"
 “Token Address” on the Develop Network 0x8Fc8CF167D04Ba0Eb713147Bd6e1D169A326cb02
 
 
+References and attibution of help taken from - 
+I had joined this program to learn the basics of development in blockchain, however the course got too intense for me and I could not find sufficient help in the course.
+I am very new to blockchain technology and programming using Javascript/Node.js/Solidity, so it was very hard for me to complete the project without referring to so many resources outside the content provided by Udacity for this course. I gatefully acknowledge the following resources and repositories , because I learned a lot from them.
+
+https://www.youtube.com/watch?v=s-Cp9CYBheo
+
+https://github.com/andistoev/udacity-blockchain-developer-nanodegree--nd1309/blob/master/project2-ethereum-nft-crypto-star-dapp/contracts/StarNotary.sol
+
+https://github.com/ibrunotome/udacity-blockchain-developer-nanodegree/tree/master/project5/smart_contracts
+
+
+https://github.com/itsdivik/Build-CryptoStar-Dapp-on-Ethereum/tree/master/Build%20CryptoStar%20Dapp%20on%20Ethereum/test
+
+
 # ND1309 C2 Ethereum Smart Contracts, Tokens and Dapps - Project Starter 
 **PROJECT: Decentralized Star Notary Service Project** - For this project, you will create a DApp by adding functionality with your smart contract and deploy it on the public testnet.
 

@@ -41,16 +41,16 @@ const App = {
 
   // Implement Task 4 Modify the front end of the DAPP
   lookUp: async function (){
-    const { lookUptokenIdToStarInfo } = this.meta.methods;
+    const {lookUptokenIdToStarInfo } = this.meta.methods;
     const id = document.getElementById("lookid").value;
     const starName = await lookUptokenIdToStarInfo(id).call();
 
     let status;
     if (starName === '') {
-      status = 'Error! No star found with the selected id: ' + id;
+      status = 'THis Star Not Found: ' + id;
     }
     else {
-      status = 'Found star [' + starName + '] with the selected id: ' + id;
+      status = 'Found star :' + id;
     }
 
     App.setStatus(status);
